@@ -18,9 +18,11 @@
 | [002 - AnimInstance 与动画图](journey/Animation之旅_002_AnimInstance与动画图.md) | 动画蓝图运行时与 AnimNode 执行架构 | ⭐⭐⭐ |
 | [003 - BlendSpace 混合空间](journey/Animation之旅_003_BlendSpace混合空间.md) | 混合空间，多动画混合的核心资产 | ⭐⭐⭐ |
 | [004 - 动画蒙太奇与 Slot 系统](journey/Animation之旅_004_动画蒙太奇与Slot系统.md) | AnimMontage，UE 中最强大的动画播放控制工具 | ⭐⭐⭐ |
-| [005 - BlendSpace 与动画混合深度解析](journey/Animation之旅_005_BlendSpace与动画混合深度解析.md) | 从数学基础到源码实现的多维动画混合 | ⭐⭐⭐⭐ |
+| [005 - BlendSpace 与动画混合深度解析](journey/Animation之旅_005_BlendSpace与动画混合深度解析.md) | 从数学基础到��码实现的多维动画混合 | ⭐⭐⭐⭐ |
+| [006 - 骨骼重定向与 IK 系统](journey/Animation之旅_006_骨骼重定向与IK系统.md) | 骨骼重定向原理与 IK 系统深度解析 | ⭐⭐⭐⭐ |
 | [007 - Control Rig 与程序化动画](journey/Animation之旅_007_ControlRig与程序化动画.md) | 基于 RigVM 的程序化动画解决方案 | ⭐⭐⭐⭐ |
 | [008 - Root Motion 深度解析](journey/Animation之旅_008_RootMotion深度解析.md) | 根骨骼运动的实现原理与网络同步 | ⭐⭐⭐⭐ |
+| [009 - 动画通知系统 AnimNotify 深度解析](journey/Animation之旅_009_动画通知系统AnimNotify深度解析.md) | AnimNotify 与 AnimNotifyState 的架构与实现 | ⭐⭐⭐ |
 | [010 - Linked Anim Graph 与分层动画系统](journey/Animation之旅_010_LinkedAnimGraph与分层动画系统深度解析.md) | 多 AnimInstance 协作与动画分层核心机制 | ⭐⭐⭐⭐ |
 | [011 - 动画同步与网络复制](journey/Animation之旅_011_动画同步与网络复制.md) | 多人游戏中的动画同步策略 | ⭐⭐⭐⭐⭐ |
 | [番外篇 - 动画压缩算法详解](journey/Animation之旅_番外篇_动画压缩算法详解.md) | UE5 动画压缩的原理、格式与实现细节 | ⭐⭐⭐⭐ |
@@ -42,7 +44,7 @@ UE5 动画系统
 ├── 高级特性
 │   ├── Root Motion         （根骨骼运动）
 │   ├── 动画压缩算法
-��   └── 网络同步与复制
+│   └── 网络同步与复制
 ```
 
 ---
